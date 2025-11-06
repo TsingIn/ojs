@@ -26,10 +26,10 @@
 
 ; Set this to On once the system has been installed
 ; (This is generally done automatically by the installer)
-installed = Off
+installed = True
 
 ; The canonical URL to the OJS installation (excluding the trailing slash)
-base_url = "http://chiryn.com/ojs"
+base_url = "http://chiryn.com"
 
 ; Enable strict mode. This will more aggressively cause errors/warnings when
 ; deprecated behaviour exists in the codebase.
